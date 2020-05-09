@@ -1,7 +1,9 @@
-#JimShapedCoding's Blackjack Game
-##This is a blackjack game made with Python's module named TKinter.
+<h1>JimShapedCoding's Blackjack Game</h1>
 
-##After reading this you will know the two ways to launch the game on your own computer
+<h2>This is a blackjack game made with Python's module named TKinter</h2>
+
+<h2>After reading this you will know the two ways to launch the game on your own computer</h2>
+
 
 ### 1) 
 

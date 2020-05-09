@@ -2,7 +2,7 @@
 
 <h2>This is a blackjack game made with Python's module named TKinter</h2>
 
-<h2>After reading this you will know the two ways to launch the game on your own computer</h2>
+<h2>After reading this, you will know the TWO ways to launch the game on your own computer</h2>
 
 
 ### 1) 
@@ -21,7 +21,7 @@
         - classes: ImageTk, Image (download with pip)
     - Tkinter, os, random (Should be installed by default)
      
-Since i did not make the project too heavy, i passed on the venv option.
+Since i did want upload too heavy content, i passed on VENV.
 
 ### 2)
  - Download an executable file from: 

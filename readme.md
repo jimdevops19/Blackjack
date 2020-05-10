@@ -24,7 +24,7 @@
 Since i did want upload too heavy content, i passed on VENV.
 
 ### 2)
- - Download an executable file from: 
+ - Download an executable file from:  https://easyupload.io/ewbpkg
     - Make sure you got winRAR installed on your windows machine:
         - Extract files on the folder you downloaded
         - Expect for: main.exe file and images_demo folder
